@@ -3,7 +3,7 @@
 const hub_host = 'registry-1.docker.io'
 const auth_url = 'https://auth.docker.io'
 // 请将 hub.weiyigeek.eu.org 替换为自己的域名
-const workers_url = 'https://hub.weiyigeek.eu.org'
+const workers_url = 'https://www.jjyrdd.cn'
 const PREFLIGHT_INIT = {
     status: 204,
     headers: new Headers({
